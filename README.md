@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gabriellepavani
-- 👀 I’m interested in programming with C#
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: gabipavani4@gmail.com
+-  Hi, I’m @gabriellepavani
+-  I’m interested in programming with C#, HTML, JS and CSS
+-  I’m currently learning game development
+-  How to reach me: gabriellepavani3@gmail.com
 
 <!---
 gabriellepavani/gabriellepavani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
